@@ -1,1 +1,2 @@
 # emacs
+# i3wm
